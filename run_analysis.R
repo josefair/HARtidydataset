@@ -6,7 +6,7 @@
 ##################################################################################################################
 
 ##Setting working directory
-setwd("C:/Users/Joseph/Documents/DataScience/UCI HAR Dataset")
+##setwd("C:/Users/Joseph/Documents/DataScience/UCI HAR Dataset")
 
 
         ##########################################################
